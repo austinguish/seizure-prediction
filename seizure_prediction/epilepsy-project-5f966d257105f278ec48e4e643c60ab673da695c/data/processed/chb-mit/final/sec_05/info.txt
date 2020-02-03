@@ -1,0 +1,3 @@
+In this dir the binary data files are placed (preictal.npy, interictal.npy, ictal.npy)
+
+This is for 5 sec segments, the directory for 30 sec segments is created when using 30 sec segments

@@ -1,0 +1,3 @@
+In this dir features files are placed (DSTL.dat, max_correlation.dat, etc)
+
+This is for 5 sec segments, the directory for 30 sec segments is created when using 30 sec segments
